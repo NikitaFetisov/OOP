@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\LabRab7ODZ\LabRab7ODZ\bin\Debug\net6.0\LabRab7ODZ.exe
+C:\Users\admin\source\repos\LabRab7ODZ\LabRab7ODZ\bin\Debug\net6.0\LabRab7ODZ.deps.json
+C:\Users\admin\source\repos\LabRab7ODZ\LabRab7ODZ\bin\Debug\net6.0\LabRab7ODZ.runtimeconfig.json
+C:\Users\admin\source\repos\LabRab7ODZ\LabRab7ODZ\bin\Debug\net6.0\LabRab7ODZ.dll
+C:\Users\admin\source\repos\LabRab7ODZ\LabRab7ODZ\bin\Debug\net6.0\LabRab7ODZ.pdb
+C:\Users\admin\source\repos\LabRab7ODZ\LabRab7ODZ\obj\Debug\net6.0\LabRab7ODZ.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\LabRab7ODZ\LabRab7ODZ\obj\Debug\net6.0\LabRab7ODZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\LabRab7ODZ\LabRab7ODZ\obj\Debug\net6.0\LabRab7ODZ.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\LabRab7ODZ\LabRab7ODZ\obj\Debug\net6.0\LabRab7ODZ.AssemblyInfo.cs
+C:\Users\admin\source\repos\LabRab7ODZ\LabRab7ODZ\obj\Debug\net6.0\LabRab7ODZ.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\LabRab7ODZ\LabRab7ODZ\obj\Debug\net6.0\LabRab7ODZ.dll
+C:\Users\admin\source\repos\LabRab7ODZ\LabRab7ODZ\obj\Debug\net6.0\refint\LabRab7ODZ.dll
+C:\Users\admin\source\repos\LabRab7ODZ\LabRab7ODZ\obj\Debug\net6.0\LabRab7ODZ.pdb
+C:\Users\admin\source\repos\LabRab7ODZ\LabRab7ODZ\obj\Debug\net6.0\LabRab7ODZ.genruntimeconfig.cache
+C:\Users\admin\source\repos\LabRab7ODZ\LabRab7ODZ\obj\Debug\net6.0\ref\LabRab7ODZ.dll
